@@ -1,1 +1,2 @@
-# lib-zerynth-genann
+# zerynth-genann
+

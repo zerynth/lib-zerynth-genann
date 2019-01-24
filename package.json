@@ -1,0 +1,20 @@
+{
+    "dependencies": {},
+    "description": "Zerynth Genann support",
+    "fullname": "lib.zerynth.genann",
+    "git_pointer": "zerynth://zerynth-libs/zerynth-genann",
+    "info": {
+        "chip_manufacturer": "-",
+        "chip_name": "-",
+        "name": "Zerynth Genann Library",
+        "type": "AI"
+    },
+    "keywords": [
+        "ann",
+        "genann"
+    ],
+    "repo": "official",
+    "title": "Zerynth Genann Library",
+    "version": "r2.2.0",
+    "whatsnew": ""
+}
