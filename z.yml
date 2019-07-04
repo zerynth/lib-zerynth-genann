@@ -1,0 +1,13 @@
+---
+description: Zerynth Genann support
+fullname: lib.zerynth.genann
+info:
+    chip_manufacturer: '-'
+    chip_name: '-'
+    name: Zerynth Genann Library
+    type: AI
+keywords:
+- ann
+- genann
+title: Zerynth Genann Library
+...
